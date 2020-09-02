@@ -1,5 +1,9 @@
-def print_people(*people):
-    for person in people:
-        print("This person is", person)
 
-print_people("Nick", "Joey", "Sam", "Haley")
+# define function
+def do_math(num1, num2):
+    return num1 + num2
+
+math1 = do_math(5, 7)
+math2 = do_math(11,34)
+
+print("first sum is", math1, "secoond sum is", math2)
