@@ -1,6 +1,7 @@
 #for loop
 
-numbers = [1, 2, 3, 4, 5]
+numbers = ["Haley", "Annette", "Jesse", "Karleigh", "Dillon", "Hunter"]
 
+#each element-in-list
 for item in numbers:
-    print(item)
+    print("This persons name is", item)
