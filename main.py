@@ -1,9 +1,6 @@
 
-def my_function():
-    print("This is my function!")
-    print("A second string")
+def my_function(str1, str2):
+    print(str1)
+    print(str2)
 
-# //When function is done end indentation
-
-# call function
-my_function() 
+my_function("This is arguement 1", "This is the second arg")
