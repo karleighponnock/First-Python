@@ -1,12 +1,6 @@
-# conditional statements in python
+#for loop
 
-check = "Hamburger"
+numbers = [1, 2, 3, 4, 5]
 
-if check == False:
-    print("It is false")
-elif check == "Hamburger":
-    print("Yummmm, hamburgers")
-elif check == "Yo":
-    print("Hello")
-else:
-    print("It is actually equal to True")
+for item in numbers:
+    print(item)
