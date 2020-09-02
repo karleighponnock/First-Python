@@ -1,4 +1,5 @@
-def print_something(name = "Someone", age = "unknown"):
-    print("My name is ", name, "and my age is", age)
+def print_people(*people):
+    for person in people:
+        print("This person is", person)
 
-print_something(age = 24)
+print_people("Nick", "Joey", "Sam", "Haley")
