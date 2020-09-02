@@ -1,7 +1,9 @@
-#for loop
+run = True
+current = 1
 
-numbers = ["Haley", "Annette", "Jesse", "Karleigh", "Dillon", "Hunter"]
-
-#each element-in-list
-for item in numbers:
-    print("This persons name is", item)
+while run:
+    if current == 100:
+        run = False
+    else:
+        print(current)
+        current += 1
