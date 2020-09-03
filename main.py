@@ -1,9 +1,14 @@
+#calculator
+
+#import regex
+import re
+
+print("Python Calculator")
+
+previous = 0
 run = True
-current = 1
+
+def performMath():
 
 while run:
-    if current == 100:
-        run = False
-    else:
-        print(current)
-        current += 1
+    performMath()
