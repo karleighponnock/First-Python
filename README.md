@@ -1,4 +1,4 @@
-# First-Python
+# First-Python-Calculator
 First exercises in Python!
 
 Simple exersizes to learn python basics ending in a calculator application that runs in the command line. 
