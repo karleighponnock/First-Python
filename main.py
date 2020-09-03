@@ -22,6 +22,7 @@ def performMath():
         equation = input(str(previous))
     #if user tyoes exit end app
     if equation == 'quit':
+        print("Goodbye")
         run = False
     #remove everything other than numbers or operators from user input
     #evaluate it and print new answer
