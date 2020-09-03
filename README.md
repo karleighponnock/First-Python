@@ -9,9 +9,9 @@ Simple exersizes to learn python basics ending in a calculator application that 
 ![image](./assets/forth.png)
 ![image](./assets/fifth.png)
 
-#Instructions
--Run the program in terminal
--Next you will be prompted for an equation
--Type the first equation
--Continue with operations as long as you would like
--Type quit to end application
+#Instructions <br />
+-Run the program in terminal <br />
+-Next you will be prompted for an equation <br />
+-Type the first equation <br />
+-Continue with operations as long as you would like <br />
+-Type quit to end application <br />
