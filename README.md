@@ -4,8 +4,10 @@ First exercises in Python!
 Simple exersizes to learn python basics ending in a calculator application that runs in the command line. 
 
 ![image](./assets/first.png)
-
-
+![image](./assets/second.png)
+![image](./assets/third.png)
+![image](./assets/forth.png)
+![image](./assets/fifth.png)
 
 #Instructions
 -Run the program in terminal
